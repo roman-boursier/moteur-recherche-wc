@@ -1,5 +1,5 @@
 # moteur-recherche-wc
-Un addons woocommerce permettant la recherche de produits spécifiques <br>
+Un addon woocommerce permettant la recherche de produits spécifiques <br>
 ---------------------------------------------------------------------------------------------------
 En cours de dev<br>
 Trois produits sont intégrés en BO (PV1110, PV10, 7904143), la recherche pourra donc fonctionner par exemple sur les combinaisons suivnates :<br>
